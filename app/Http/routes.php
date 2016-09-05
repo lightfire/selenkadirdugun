@@ -13,5 +13,5 @@
 
 $app->get('/', function () use ($app) {
     //return $app->version();
-    return 'Test push me';
+    return view('index');
 });
