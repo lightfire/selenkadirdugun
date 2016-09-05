@@ -41,7 +41,7 @@
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
     <!-- Added google font -->
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700|Lobster' rel='stylesheet' type='text/css'>
+    <link href="//fonts.googleapis.com/css?family=PT+Sans:400,700|Lobster" rel="stylesheet" type='text/css'>
 
 
 
@@ -864,7 +864,7 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
 	        				<span class="footer-logo">
-	        					Johne & Jane
+	        					Kadir &amp; Selen
 	        				</span>
                 </div>
                 <div class="col-sm-offset-3 col-sm-6">
@@ -887,7 +887,7 @@
                     <!-- footer nav end -->
                 </div>
                 <div class="col-sm-12 text-center">
-                    <p class="copyright"><i class="fa fa-copyright"></i> 2014 John&amp;Jane - One Page Wedding Template By CodePassanger</p>
+                    <p class="copyright"><i class="fa fa-copyright"></i> 2014 Kadir &amp; Selen - One Page Wedding Template By CodePassanger</p>
                 </div>
             </div>
         </div>
