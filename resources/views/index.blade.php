@@ -772,7 +772,7 @@
         </div>
         <div class="row">
             <div class="col-sm-3 divider">
-                <h5>contact info</h5>
+                <h5>İletişim Bilgileri</h5>
                 <div class="contact-address">
                     <ul>
                         <li>
@@ -788,8 +788,8 @@
                             <i class="fa fa-phone"></i>
                             <div class="address-phone">
                                 <h4>phone</h4>
-                                <span> +02 25 479336893</span>
-                                <span> +02 57 893145939</span>
+                                <span> +90 507 103 72 77</span>
+                                <span> +90 532 158 21 78</span>
                             </div>
                             <!-- /.address-phone -->
                         </li>
@@ -797,7 +797,7 @@
                             <i class="fa fa-paper-plane"></i>
                             <div class="address-phone">
                                 <h4>email</h4>
-                                <span>example@email.com</span>
+                                <span>davetiye@selenkadirdugun.site</span>
                             </div>
                             <!-- /.address-phone -->
                         </li>
