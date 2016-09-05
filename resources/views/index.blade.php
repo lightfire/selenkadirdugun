@@ -176,7 +176,7 @@
                             <div class="thumb-img">
                                 <img class="img-responsive" src="images/groom.png" alt="Groom">
                                 <div class="thumb-hover">
-                                    <h5>JOHN DOE <small>groom</small></h5>
+                                    <h5>KADİR ERGÜN <small>groom</small></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
                                         nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
                                     </p>
@@ -198,7 +198,7 @@
                             <div class="thumb-img">
                                 <img class="img-responsive" src="images/bride.png" alt="Bride">
                                 <div class="thumb-hover">
-                                    <h5>JANE DOE <small>bride</small></h5>
+                                    <h5>SELEN ERGÜN <small>bride</small></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
                                         nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
                                     </p>
