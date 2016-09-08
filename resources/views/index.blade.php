@@ -133,14 +133,12 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
                             <li><a href="#banner">Home</a></li>
-                            <li><a href="#couple">Couple</a></li>
-                            <li><a href="#story">Love Story</a></li>
+                            <li><a href="#couple">Biz</a></li>
+                            <li><a href="#story">Hikayemiz</a></li>
                             <li><a href="#people">People</a></li>
-                            <li><a href="#event">Event</a></li>
-                            <li><a href="#gift">Gift</a></li>
-                            <li><a href="#gallery">Gallery</a></li>
-                            <li><a href="#blog">Blog</a></li>
-                            <li><a href="#contact">RSVP</a></li>
+                            <li><a href="#event">Düğün</a></li>
+                            <li><a href="#gallery">Resimlerimiz</a></li>
+                            <li><a href="#contact">Adres | İletişim</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div>
@@ -351,117 +349,6 @@
 </section>
 <!-- .rsvpLink end -->
 
-<!-- people start -->
-<section id="people" class="people">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <div class="heading wow animated fadeInUp">
-                    <h3>Important People</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
-                </div>
-                <!-- /.heading end -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 left-content">
-                <div class="row wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1s">
-                    <div class="col-sm-8">
-                        <div class="profile">
-                            <h5>JULIA ANTHREW<small>Maid of Honor</small></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscielit. Praesent sit amet pharetra nunc, non scelerisqligula Cras vel justo nulla. Vestibulum a sollicitudin metus, faucibus fermentum leo.
-                            </p>
-                            <ul class="social-icon">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <!-- /.social-icon end -->
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="people-thumb-img">
-                            <img class="img-responsive" src="images/people_maid_of_honor.jpg" alt="MaidOfHonor">
-                        </div>
-                        <!-- /.people-thumb-img -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 right-content">
-                <div class="row wow animated fadeInRight" data-wow-delay="0s" data-wow-duration="1s">
-                    <div class="col-sm-4">
-                        <div class="people-thumb-img">
-                            <img class="img-responsive" src="images/people_bestman.jpg" alt="BestMan">
-                        </div>
-                        <!-- /.people-thumb-img -->
-                    </div>
-                    <div class="col-sm-8">
-                        <div class="profile">
-                            <h5>JONATHON ALEX<small>Best Man</small></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscielit. Praesent sit amet pharetra nunc, non scelerisqligula Cras vel justo nulla. Vestibulum a sollicitudin metus, faucibus fermentum leo.
-                            </p>
-                            <ul class="social-icon">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <!-- /.social-icon end -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 left-content">
-                <div class="row wow animated fadeInLeft" data-wow-delay="0.6s" data-wow-duration="1s">
-                    <div class="col-sm-8">
-                        <div class="profile">
-                            <h5>IRISH ANTHREW<small>Bridesmaid</small></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscielit. Praesent sit amet pharetra nunc, non scelerisqligula Cras vel justo nulla. Vestibulum a sollicitudin metus, faucibus fermentum leo.
-                            </p>
-                            <ul class="social-icon">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <!-- /.social-icon end -->
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="people-thumb-img">
-                            <img class="img-responsive" src="images/people_bridesmaid.jpg" alt="BridesMaid">
-                        </div>
-                        <!-- /.thumb-img -->
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-6 right-content">
-                <div class="row wow animated fadeInRight" data-wow-delay="0.6s" data-wow-duration="1s">
-                    <div class="col-sm-4">
-                        <div class="people-thumb-img">
-                            <img class="img-responsive" src="images/people_groomman.jpg" alt="GroomsMan">
-                        </div>
-                        <!-- /.thumb-img -->
-                    </div>
-                    <div class="col-sm-8">
-                        <div class="profile">
-                            <h5>SEAN MAHER<small>Groomsman</small></h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscielit. Praesent sit amet pharetra nunc, non scelerisqligula Cras vel justo nulla. Vestibulum a sollicitudin metus, faucibus fermentum leo.
-                            </p>
-                            <ul class="social-icon">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            </ul>
-                            <!-- /.social-icon end -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- people end -->
 
 <!-- event start -->
 <section id="event" class="event lightsmoke">
@@ -526,50 +413,6 @@
 </section>
 <!-- event end -->
 
-<!-- gift start -->
-<section id="gift" class="gift white">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <div class="heading wow animated fadeInUp">
-                    <h3>Gift Registration</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
-                </div>
-                <!-- /.heading end -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="gift-block wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">
-                    <a href="#"><img class="img-responsive" src="images/company_01.png" alt="Gift name"></a>
-	 						<span class="gift-overlay">
-
-	 						</span>
-                </div>
-                <!-- /.gift-block end -->
-            </div>
-            <div class="col-sm-4">
-                <div class="gift-block wow animated fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
-                    <a href="#"><img class="img-responsive" src="images/company_02.png" alt="Gift name"></a>
-	 						<span class="gift-overlay">
-
-	 						</span>
-                </div>
-                <!-- /.gift-block end -->
-            </div>
-            <div class="col-sm-4">
-                <div class="gift-block wow animated fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">
-                    <a href="#"><img class="img-responsive" src="images/company_03.png" alt="Gift name"></a>
-	 						<span class="gift-overlay">
-
-	 						</span>
-                </div>
-                <!-- /.gift-block end -->
-            </div>
-        </div>
-    </div>
-</section>
-<!-- event end -->
 
 <!-- gallery start -->
 <section id="gallery" class="gallery lightsmoke">
@@ -650,96 +493,7 @@
 </section>
 <!-- gallery end -->
 
-<!-- blog start -->
-<section id="blog" class="blog">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <div class="heading wow animated fadeInUp">
-                    <h3>Our Blog</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra
-                        <br>nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
-                </div>
-                <!-- /.heading end -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-md-4">
-                <div class="blog-post wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">
-                    <div class="blog-head">
-                        <div class="blog-meta">
-                            <ul>
-                                <li>jacky </li>
-                                <li>jan 25,2015 </li>
-                                <li><a href="blog-single-greyscale.html">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <!-- /.blog-meta -->
-                        <h5><a href="blog-single-greyscale.html">bachelorette party</a></h5>
-                    </div>
-                    <div class="blog-thumb">
-                        <img class="img-responsive" src="images/blog_thumbnail_01.jpg" alt="Blog image">
-                        <div class="blog-thumb-hover">
-                            Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
-                        </div>
-                    </div>
-                    <!-- /.blog-thumb -->
-                    <a class="blog-link" href="blog-single-greyscale.html"><i class="fa fa-picture-o"></i><i class="fa fa-link"></i></a>
-                </div>
-                <!-- /.blog-post -->
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="blog-post wow animated fadeInUp" data-wow-delay=".6s" data-wow-duration="1s">
-                    <div class="blog-head">
-                        <div class="blog-meta">
-                            <ul>
-                                <li>jacky </li>
-                                <li>jan 25,2015 </li>
-                                <li><a href="blog-single-greyscale.html">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <!-- /.blog-meta -->
-                        <h5><a href="blog-single-greyscale.html">bachelorette party</a> </h5>
-                    </div>
-                    <div class="blog-thumb">
-                        <img class="img-responsive" src="images/blog_thumbnail_02.jpg" alt="Blog image">
-                        <div class="blog-thumb-hover">
-                            Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
-                        </div>
-                    </div>
-                    <!-- /.blog-thumb -->
-                    <a class="blog-link" href="blog-single-greyscale.html"><i class="fa fa-picture-o"></i><i class="fa fa-link"></i></a>
-                </div>
-                <!-- /.blog-post -->
-            </div>
-            <div class="col-sm-6 col-md-4">
-                <div class="blog-post wow animated fadeInUp" data-wow-delay="1.2s" data-wow-duration="1s">
-                    <div class="blog-head">
-                        <div class="blog-meta">
-                            <ul>
-                                <li>jacky </li>
-                                <li>jan 25,2015 </li>
-                                <li><a href="blog-single-greyscale.html">4 comments</a></li>
-                            </ul>
-                        </div>
-                        <!-- /.blog-meta -->
-                        <h5><a href="blog-single-greyscale.html">bachelorette party</a> </h5>
-                    </div>
-                    <div class="blog-thumb">
-                        <img class="img-responsive" src="images/blog_thumbnail_03.jpg" alt="Blog image">
-                        <div class="blog-thumb-hover">
-                            Meh synth Schlitz, tempor duis single-origin ce ea next level ethnic fingerstache fanny pnostrud. Photo booth anim 8-bit henvetica. Salvia esse nihil, flexitarian Truffaut synep v chillwave. Seitan High Lipidatat kogi.
-                        </div>
-                    </div>
-                    <!-- /.blog-thumb -->
-                    <a class="blog-link" href="blog-single-greyscale.html"><i class="fa fa-picture-o"></i><i class="fa fa-link"></i></a>
-                </div>
-                <!-- /.blog-post -->
-            </div>
-        </div>
-    </div>
-</section>
-<!-- /.blog end -->
+
 
 <!-- .quote start -->
 <section id="quote" class="quote">
