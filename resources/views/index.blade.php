@@ -135,10 +135,9 @@
                             <li><a href="#banner">Home</a></li>
                             <li><a href="#couple">Biz</a></li>
                             <li><a href="#story">Hikayemiz</a></li>
-                            <li><a href="#people">People</a></li>
-                            <li><a href="#event">Düğün</a></li>
-                            <li><a href="#gallery">Resimlerimiz</a></li>
-                            <li><a href="#contact">Adres | İletişim</a></li>
+                            <li><a href="#event">DÜĞÜN</a></li>
+                            <li><a href="#gallery">RESİMLERİMİZ</a></li>
+                            <li><a href="#contact">ADRES | İLETİŞİM</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div>
@@ -338,9 +337,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 text-center">
-                    <span class="rsvpLink-title">We are missing your present. Don’t be late no more.</span>
+                    <span class="rsvpLink-title">Aramızda olmanızı çok isteriz!</span>
                     <a href="#contact" class="btn default-btn">RSVP</a>
-                    <a href="#map" class="btn default-btn">MAP</a>
+                    <a href="#map" class="btn default-btn">Harita</a>
                 </div>
             </div>
         </div>
@@ -502,7 +501,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <blockquote>
-                        <p>For some people, the point of no return begins at the very <br> moment their souls become aware of each other's existence.</p>
+                        <p>Hayatımızın bu en güzel gününde Siz değerli dostlarımızı aramızda görmekten Onur ve Mutluluk duyacağız.</p>
                     </blockquote>
                     <!-- blockquote end -->
                 </div>
