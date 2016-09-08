@@ -132,7 +132,7 @@
                     <!-- Collect the nav toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li><a href="#banner">Home</a></li>
+                            <li><a href="#banner"><i class="glyphicon-home"></i> </a></li>
                             <li><a href="#couple">Biz</a></li>
                             <li><a href="#story">Hikayemiz</a></li>
                             <li><a href="#event">DÜĞÜN</a></li>
