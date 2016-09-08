@@ -40,8 +40,10 @@
     <!-- Font awesome -->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
-    <!-- Added google font -->
-    <link href="//fonts.googleapis.com/css?family=PT+Sans:400,700|Lobster" rel="stylesheet" type='text/css'>
+    
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+
 
 
 
