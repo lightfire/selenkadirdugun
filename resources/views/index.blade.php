@@ -40,10 +40,11 @@
     <!-- Font awesome -->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
+    <style>
 
-    <link rel="stylesheet" href="assets/css/custom.css">
+        @import 'https://fonts.googleapis.com/css?family=Lobster|PT+Sans:400,700&subset=latin-ext';
 
-
+    </style>
 
 
 
