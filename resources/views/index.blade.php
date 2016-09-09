@@ -134,7 +134,7 @@
                         <ul class="nav navbar-nav">
                             <li><a href="#banner"><i class="glyphicon glyphicon-home"></i> </a></li>
                             <li><a href="#couple">Biz</a></li>
-                            <li><a href="#story">Hikayemiz</a></li>
+                            <!--li><a href="#story">Hikayemiz</a></li-->
                             <li><a href="#event">DÜĞÜN</a></li>
                             <li><a href="#gallery">RESİMLERİMİZ</a></li>
                             <li><a href="#contact">ADRES | İLETİŞİM</a></li>
@@ -226,14 +226,14 @@
 <!-- couple end -->
 
 <!-- story start -->
+<?php /*
 <section id="story" class="story lightsmoke">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
-                    <h3>Our Love Story</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br>nunc,  non scelerisque ligula.
-                        Crasveljusto nulla Vestibuluma.</p>
+                    <h3>HİKAYEMİZ</h3>
+                    <p>.</p>
                 </div>
                 <!-- /.heading end -->
             </div>
@@ -329,6 +329,7 @@
         </div>
     </div>
 </section>
+*/ ?>
 <!-- story end -->
 
 <!-- .rsvpLink start -->
@@ -355,8 +356,8 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
-                    <h3>Wedding Events</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
+                    <h3>DÜĞÜN</h3>
+                    <p>Önemli Tarihler ve düğün bilgileri</p>
                 </div>
                 <!-- /.heading end -->
             </div>
@@ -365,13 +366,13 @@
             <div class="col-sm-6 col-md-4">
                 <div class="event-block wow animated fadeInUp" data-wow-delay="0s" data-wow-duration="1s">
                     <div class="event-img">
-                        <img class="img-responsive" src="images/event_01.png" alt="Event name">
+                        <img class="img-responsive" src="images/davulzurna2.jpg" width="370" height="196" alt="Düğün Alayı">
                     </div>
                     <!-- /.event-img end -->
                     <div class="event-body">
-                        <h5><a href="blog-single-greyscale.html">BACHELOR PARTY</a></h5>
-                        <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p>
-                        <span class="event-date">July 14th <span class="event-year">2015</span></span>
+                        <h5><a href="blog-single-greyscale.html">ALAY</a></h5>
+                        <p>29 Ekim Saat 17:00 Kız evi.</p>
+                        <span class="event-date">Ekim 29 <span class="event-year">2016</span></span>
                     </div>
                     <!-- /.event-body end -->
                 </div>
@@ -384,9 +385,9 @@
                     </div>
                     <!-- /.event-img end -->
                     <div class="event-body">
-                        <h5><a href="blog-single-greyscale.html">WEDDING CEREMONY</a></h5>
-                        <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p>
-                        <span class="event-date">July 14th <span class="event-year">2015</span></span>
+                        <h5><a href="blog-single-greyscale.html">TEKİRDAĞ DÜĞÜN</a></h5>
+                        <p>29 Ekim Saat 19:00 / Tekirdağ Düğün Salonu 1</p>
+                        <span class="event-date">Ekim 29 <span class="event-year">2016</span></span>
                     </div>
                     <!-- /.event-body end -->
                 </div>
@@ -399,9 +400,9 @@
                     </div>
                     <!-- /.event-img end -->
                     <div class="event-body">
-                        <h5><a href="blog-single-greyscale.html">WEDDING PARTY</a></h5>
-                        <p>Excepteur sint occaecat non proident, sunt in culpa qui officia deserunt mollit aniid est laborumut perspiciatisunde.</p>
-                        <span class="event-date">July 14th <span class="event-year">2015</span></span>
+                        <h5><a href="blog-single-greyscale.html">İSTANBUL DÜĞÜN</a></h5>
+                        <p>5 Kasım Saat 19:00 / Gala Düğün Salonu <a href="#map" class="btn default-btn">Harita</a></p>
+                        <span class="event-date">Kasım 5 <span class="event-year">2016</span></span>
                     </div>
                     <!-- /.event-body end -->
                 </div>
@@ -419,12 +420,15 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
-                    <h3>Photo Gallery</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
+                    <h3>RESİMLERİMİZ</h3>
+                    <p>Düğünden Sonra... :)</p>
                 </div>
                 <!-- /.heading end -->
             </div>
         </div>
+
+        <?php
+        /*
         <div class="row">
             <div class="col-sm-12">
                 <div id="photo-gallery" class="photo-gallery">
@@ -435,59 +439,12 @@
                             <span class="img_category">Engagement</span>
                         </a>
                     </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_02.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_02.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_03.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_03.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_04.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_04.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_05.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_05.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_06.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_06.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_07.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_07.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
-                    <div class="item">
-                        <img src="images/gallery/gallery_thumb_08.jpg" alt="gallery image">
-                        <a href="images/gallery/gallery_image_08.jpg" class="caption gallery-popup">
-                            <h5>Happy Moment</h5>
-                            <span class="img_category">Engagement</span>
-                        </a>
-                    </div>
                 </div>
                 <!-- /.photo-gallery end -->
             </div>
         </div>
+        */
+        ?>
     </div>
 </section>
 <!-- gallery end -->
@@ -518,7 +475,7 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
-                    <h3>RSVP</h3>
+                    <h3>İLETİŞİM</h3>
                     <p>
                         <br> .</p>
                 </div>
@@ -526,28 +483,58 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-3 divider">
+            <div class="col-sm-6 divider">
                 <h5>İletişim Bilgileri</h5>
                 <div class="contact-address">
                     <ul>
                         <li>
                             <i class="fa fa-home"></i>
                             <div class="address-phone">
-                                <h4>address</h4>
-                                <span>63739 street lorem</span>
-                                <span>City, Country</span>
+                                <h4>Adres / Düğün 1</h4>
+                                <span>Özdemirler Yapı Market Üzeri</span>
+                                <span>Tekirdağ / Süleymanpaşa</span>
                             </div>
                             <!-- /.address-phone -->
                         </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <h5>İletişim Bilgileri</h5>
+                <div class="contact-address">
+                    <ul>
+                        <li>
+                            <i class="fa fa-home"></i>
+                            <div class="address-phone">
+                                <h4>Adres / Düğün 2</h4>
+                                <span>Merkez Mah. Eski Edirne Asfaltı Cad. No:26/D</span>
+                                <span>Bereç GOP</span>
+                            </div>
+                            <!-- /.address-phone -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6 divider">
+                <div class="contact-address">
+                    <ul>
                         <li>
                             <i class="fa fa-phone"></i>
                             <div class="address-phone">
-                                <h4>phone</h4>
+                                <h4>Telefon</h4>
                                 <span> +90 507 103 72 77</span>
                                 <span> +90 532 158 21 78</span>
                             </div>
                             <!-- /.address-phone -->
                         </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="contact-address">
+                    <ul>
+
                         <li>
                             <i class="fa fa-paper-plane"></i>
                             <div class="address-phone">
@@ -558,50 +545,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="col-sm-9">
-                <div class="contact-block">
-                    <h5>Events Attending</h5>
-                    <form class="contact_form" role="form" action="#">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="name" name="name" placeholder="Your name..." required="required">
-                                </div>
-                                <div class="form-group">
-                                    <select name="numberOfGuest" id="numberOfGuest" tabindex="1">
-                                        <option value="">Number of Guest</option>
-                                        <option value="1 Person">1 Person</option>
-                                        <option value="2 Persons">2 Persons</option>
-                                        <option value="3 Persons">3 Persons</option>
-                                        <option value="4+ Persons">4+ Persons</option>
-                                    </select>
-                                </div>
-                                <div class="form-group">
-                                    <select name="eventAttending" id="eventAttending" tabindex="1">
-                                        <option value="">I am Attending</option>
-                                        <option value="All Event">All Event</option>
-                                        <option value="Wedding Ceremony">Wedding Ceremony</option>
-                                        <option value="Wedding Ceremony">Wedding Party</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <textarea class="form-control" name="message" id="message" placeholder="Write your message"></textarea>
-                                </div>
-                                <div class="form-group">
-                                    <input type="submit" name="submit" class="btn default-btn btn-block" value="I AM ATTENDING">
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <p class="contact-success">Your Message has been Successfully Sent!</p>
-                                <p class="contact-error">Error! Something went wrong!</p>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <!-- /.contact-block end -->
+
             </div>
         </div>
     </div>
