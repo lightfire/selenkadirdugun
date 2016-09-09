@@ -132,7 +132,7 @@
                     <!-- Collect the nav toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li><a href="#banner"><i class="glyphicon-home"></i> </a></li>
+                            <li><a href="#banner"><i class="glyphicon glyphicon-home"></i> </a></li>
                             <li><a href="#couple">Biz</a></li>
                             <li><a href="#story">Hikayemiz</a></li>
                             <li><a href="#event">DÜĞÜN</a></li>
@@ -634,10 +634,9 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <ul class="nav nav-pills">
-                        <li role="presentation"><a href="#banner">HOME</a></li>
-                        <li role="presentation"><a href="#gallery">GALLERY</a></li>
-                        <li role="presentation"><a href="#blog">BLOG</a></li>
-                        <li role="presentation"><a href="#contact">RSVP</a></li>
+                        <li role="presentation"><a href="#banner"><i class="glyphicon glyphicon-home"></i> </a></li>
+                        <li role="presentation"><a href="#gallery">RESİMLERİMİZ</a></li>
+                        <li role="presentation"><a href="#map">ADRES</a></li>
                     </ul>
                     <!-- footer nav end -->
                 </div>
