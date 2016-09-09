@@ -601,7 +601,7 @@
 <script src="assets/js/jquery.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="assets/js/bootstrap.min.js"></script>
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAAAKYA0qhG5qQ4UvMT_YBfUprV-rGatYg" async="" defer="defer" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAAKYA0qhG5qQ4UvMT_YBfUprV-rGatYg"></script>
 <script src="assets/js/jquery.sticky.js"></script>
 <script src="assets/js/smoothscroll.js"></script>
 <script src="assets/js/jquery.scrollTo.min.js"></script>
