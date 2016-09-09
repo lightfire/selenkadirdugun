@@ -717,7 +717,7 @@
                 {name: "Styled Map"});
 
         var mapCanvas = document.getElementById('map');
-        var nevada = new google.maps.LatLng(39.2621799, -121.0168816);
+        var nevada = new google.maps.LatLng(41.056976, 28.907653);
         var mapOptions = {
             zoom: 15,
             center: nevada,
