@@ -143,9 +143,9 @@
                 </div>
                 <div class="col-sm-2 mobile-pos">
                     <ul class="social-icon pull-right">
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://twitter.com/hashtag/selenkadirevleniyor?f=tweets&src=hash"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/events/1086271934751364/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/explore/tags/selenkadirevleniyor/"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                     <!-- /.social-icon end -->
                 </div>
@@ -567,11 +567,10 @@
 	        				</span>
                 </div>
                 <div class="col-sm-offset-3 col-sm-6">
-                    <a href="#" class="wow animated rollIn"><i class="fa fa-facebook"></i></a>
-                    <a href="#" class="wow animated rollIn"><i class="fa fa-twitter"></i></a>
-                    <a href="#" class="wow animated rollIn"><i class="fa fa-google"></i></a>
-                    <a href="#" class="wow animated rollIn"><i class="fa fa-share-alt"></i></a>
-                    <a href="#" class="wow animated rollIn"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/events/1086271934751364/" class="wow animated rollIn"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/hashtag/selenkadirevleniyor?f=tweets&src=hash" class="wow animated rollIn"><i class="fa fa-twitter"></i></a>
+                    <a href="https://plus.google.com/s/%23selenkadirevleniyor/top" class="wow animated rollIn"><i class="fa fa-google"></i></a>
+                    <a href="https://www.instagram.com/explore/tags/selenkadirevleniyor/" class="wow animated rollIn"><i class="fa fa-instagram"></i></a>
                     <a href="#" class="wow animated rollIn"><i class="fa fa-whatsapp"></i></a>
                 </div>
             </div>
