@@ -161,8 +161,8 @@
         <div class="row">
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
-                    <h3>Happy Couple</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra <br>nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
+                    <h3>BİZ</h3>
+                    <p></p>
                 </div>
                 <!-- /.heading end -->
             </div>
@@ -176,8 +176,8 @@
                                 <img class="img-responsive" src="images/groom.png" alt="Groom">
                                 <div class="thumb-hover">
                                     <h5>KADİR ERGÜN <small>groom</small></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
-                                        nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
+                                    <p>. <br>
+
                                     </p>
                                     <ul class="social-icon">
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -198,8 +198,8 @@
                                 <img class="img-responsive" src="images/bride.png" alt="Bride">
                                 <div class="thumb-hover">
                                     <h5>SELEN ERGÜN <small>bride</small></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur isingelit. <br>
-                                        nunc, non scelerisque ligula. Crasveljusto nulla <br> VestibulumaPraesent sit amet phare.
+                                    <p>. <br>
+
                                     </p>
                                     <ul class="social-icon">
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -519,8 +519,8 @@
             <div class="col-sm-12 text-center">
                 <div class="heading wow animated fadeInUp">
                     <h3>RSVP</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet pharetra
-                        <br> nunc, non scelerisque ligula. Crasveljusto nulla Vestibuluma.</p>
+                    <p>
+                        <br> .</p>
                 </div>
                 <!-- /.heading end -->
             </div>
